@@ -59,7 +59,11 @@ div {
     border-top: 2px;
 }
 
-.blue h1, .blue p {
+.blue h2 {
+    color: #c4c4c4;
+}
+
+.blue p {
     color: #c4c4c4;
 }
 
@@ -76,7 +80,7 @@ div {
 }
 
 .green {
-    background-color: #00eb00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 5px;
